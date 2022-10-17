@@ -1,4 +1,4 @@
-package com.jesus.demo.mongoDB;
+package com.jesus.demo.mongoDB.cleanArchitecture;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
